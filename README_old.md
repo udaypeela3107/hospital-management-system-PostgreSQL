@@ -1,4 +1,4 @@
-# Hospital Management Database
+)# Hospital Management Database
 
 ## Project Overview
 A PostgreSQL database project designed to manage hospital operations including patients, doctors, appointments, admissions, rooms, billing, and prescriptions.

@@ -23,3 +23,17 @@ A real-world Hospital Management System database built using PostgreSQL.
 8. Admissions
 9. Bills
 10. Payments
+
+## Real-World Hospital Workflow
+
+Patient Registration
+→ Appointment Booking
+→ Doctor Consultation
+→ Diagnosis
+→ Prescription Generation
+→ Admission (if required)
+→ Room Allocation
+→ Bill Generation
+→ Payment Processing
+
+This workflow simulates how a real hospital manages patient care, treatment, admissions, billing, and payments.
